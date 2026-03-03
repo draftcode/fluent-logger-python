@@ -16,7 +16,7 @@ Python application.
 Requirements
 ------------
 
--  Python 3.7+
+-  Python 3.10+
 - ``msgpack``
 - **IMPORTANT**: Version 0.8.0 is the last version supporting Python 2.6, 3.2 and 3.3
 - **IMPORTANT**: Version 0.9.6 is the last version supporting Python 2.7 and 3.4
